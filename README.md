@@ -1,2 +1,1 @@
-# pakistan-market-analysis
-Market and financial data analysis using Excel and Power BI
+Power BI dashboard validation against SQL Server source data using complex joins and reconciliation queries
